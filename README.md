@@ -14,6 +14,7 @@
 Overall, the green stocks we analyzed performed much better in 2017 than in 2018 in terms of yearly return. The two stocks that had positive returns both years are ENPH and RUN. Additionally, these two stocks increased their daily trading volume.
 Notably, the DQ stock that Steve's parents invested in, had a significant loss in 2018.
 
+![2017](/Resources/2017_Chart.png)
 
 ![2018](/Resources/2018Chart.png)
 
